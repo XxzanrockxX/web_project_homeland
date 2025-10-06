@@ -1,1 +1,1 @@
-link = https://github.com/XxzanrockxX/web_project_homeland.git
+# Tripleten web_project_homeland
