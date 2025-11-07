@@ -1,10 +1,10 @@
-.photo__grid {
+.photo-grid {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.photo__grid-container {
+.photo-grid__container {
   max-width: 1190px;
   padding: 26px 2% 92px;
   display: grid;
@@ -13,7 +13,7 @@
   gap: 16px 16px;
 }
 
-.photo__grid-image {
+.photo-grid__image {
   max-width: 284px;
   width: 100%;
 }
