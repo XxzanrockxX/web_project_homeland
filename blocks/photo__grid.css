@@ -4,7 +4,7 @@
   align-items: center;
 }
 
-.photo-grid_container {
+.photo__grid-container {
   max-width: 1190px;
   padding: 26px 2% 92px;
   display: grid;
@@ -13,7 +13,7 @@
   gap: 16px 16px;
 }
 
-.photo-grid__image {
+.photo__grid-image {
   max-width: 284px;
   width: 100%;
 }
