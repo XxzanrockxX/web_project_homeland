@@ -94,6 +94,12 @@
 
   .places__container {
     padding: 0 3% 2%;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto 340px 1fr;
+    grid-template-areas:
+      "title author"
+      "image text"
+      "button text";
   }
 
   .places__tittle {
@@ -101,8 +107,14 @@
   }
 
   .places__button {
-    grid-column: 1/4;
-    grid-row: 4;
+    /* grid-column: 1/4; */
+    /* grid-row: 4; */
     max-height: 20px;
+  }
+}
+
+@media screen and (max-width: 1023px) and (min-width: 769px) {
+  .places__container {
+    grid-template-rows: auto 390px 1fr;
   }
 }
