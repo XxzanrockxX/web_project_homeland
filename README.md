@@ -31,7 +31,7 @@ Esta página web muestra una experiencia visual basada en el concepto "De patria
 ## Cómo usar
 
 1. Abrir `index.html` en el navegador.
-2. Navegar por las secciones para ver la galería y los relatos de cada lugar.
+2. Navegar por las secciones para ver la galería y los relatos de cada lugar registrado.
 
 ## Autor
 
